@@ -5,3 +5,4 @@ whats app code
 3.dp
 4.status
 5.privacy
+6.hiding last seen details
